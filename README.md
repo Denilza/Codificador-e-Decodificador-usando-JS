@@ -27,9 +27,9 @@
         <li>Utilize o botão <strong>Copiar</strong> para copiar o resultado para a área de transferência.</li>
          </ul>
 
-    ## 📁 Estrutura do Projeto
-   
-        **index.html</code>:** Estrutura básica da página.
-       **styles.css</code>:** Estilos aplicados à página.
-        **script.js</code>:**Lógica de codificação e descodificação.
+   ## 📁 Estrutura do Projeto
+
+- **`index.html`:** Estrutura básica da página.
+- **`styles.css`:** Estilos aplicados à página.
+- **`script.js`:** Lógica de codificação e descodificação.
 
