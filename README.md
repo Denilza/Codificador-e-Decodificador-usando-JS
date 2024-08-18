@@ -1,12 +1,12 @@
 
 <body>
- <h1>🌐 Codificador e Descodificador de Mensagens</h1>
-    <p>Este projeto é uma página web simples que permite ao usuário codificar e descodificar mensagens. Ele foi desenvolvido utilizando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, proporcionando uma interface amigável e intuitiva para realizar operações básicas de criptografia de texto.</p>
+ <h1>🌐 Codificador e Decodificador de Mensagens</h1>
+    <p>Este projeto é uma página web simples que permite ao usuário codificar e decodificar mensagens. Ele foi desenvolvido utilizando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, proporcionando uma interface amigável e intuitiva para realizar operações básicas de criptografia de texto.</p>
 
 ## 🚀 Funcionalidades
 
 - 🔒 **Codificação de Mensagens:** Converte uma mensagem de texto em uma versão codificada utilizando um algoritmo simples.
-- 🔓 **Descodificação de Mensagens:** Converte uma mensagem codificada de volta ao seu texto original.
+- 🔓 **Decodificação de Mensagens:** Converte uma mensagem codificada de volta ao seu texto original.
 - 🖥️ **Interface Simples:** Caixa de texto para inserir a mensagem, botões para codificar e descodificar, e um campo para visualizar o resultado.
 - 📋 **Copiar Resultado:** Função para copiar o texto codificado/descodificado para a área de transferência.
 
@@ -14,7 +14,7 @@
 
 - 🧱 **HTML:** Estrutura básica da página e elementos de formulário.
 - 🎨 **CSS:** Estilização da página, tornando a interface atraente e responsiva.
-- 📝 **JavaScript:** Lógica de codificação e descodificação, além da manipulação do DOM para exibir os resultados.
+- 📝 **JavaScript:** Lógica de codificação e decodificação, além da manipulação do DOM para exibir os resultados.
 
 ## 📖 Como Usar
 <ul>
