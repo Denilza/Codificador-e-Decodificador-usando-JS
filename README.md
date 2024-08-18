@@ -28,8 +28,8 @@
          </ul>
 
     ## 📁 Estrutura do Projeto
-    <ul>
-        **index.html</code>: Estrutura básica da página.**
-       **styles.css</code>: Estilos aplicados à página.**
-        **script.js</code>: Lógica de codificação e descodificação.**
+   
+        **index.html</code>:** Estrutura básica da página.
+       **styles.css</code>:** Estilos aplicados à página.
+        **script.js</code>:**Lógica de codificação e descodificação.
 
