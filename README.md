@@ -29,8 +29,7 @@
 
     ## 📁 Estrutura do Projeto
     <ul>
-        <li><code>index.html</code>: Estrutura básica da página.</li>
-        <li><code>styles.css</code>: Estilos aplicados à página.</li>
-        <li><code>script.js</code>: Lógica de codificação e descodificação.</li>
-    </ul>
-</body>
+        **index.html</code>: Estrutura básica da página.**
+       **styles.css</code>: Estilos aplicados à página.**
+        **script.js</code>: Lógica de codificação e descodificação.**
+
