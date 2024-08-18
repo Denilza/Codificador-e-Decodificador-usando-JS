@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>README - Codificador e Descodificador de Mensagens</title>
-</head>
+
 <body>
  <h1>🌐 Codificador e Descodificador de Mensagens</h1>
     <p>Este projeto é uma página web simples que permite ao usuário codificar e descodificar mensagens. Ele foi desenvolvido utilizando <strong>HTML</strong>, <strong>CSS</strong> e <strong>JavaScript</strong>, proporcionando uma interface amigável e intuitiva para realizar operações básicas de criptografia de texto.</p>
