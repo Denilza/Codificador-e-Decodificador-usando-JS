@@ -33,3 +33,4 @@
         <li><code>styles.css</code>: Estilos aplicados à página.</li>
         <li><code>script.js</code>: Lógica de codificação e descodificação.</li>
     </ul>
+</body>
