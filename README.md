@@ -17,12 +17,7 @@
 - 📝 **JavaScript:** Lógica de codificação e descodificação, além da manipulação do DOM para exibir os resultados.
 
 ## 📖 Como Usar
-
-1. Clone o repositório para sua máquina local.
-   ```bash git clone https://github.com/usuario/repositorio.git
-
-    <h2>📖 Como Usar</h2>
-    <ol>
+<ul>
         <li>Clone o repositório para sua máquina local.</li>
         <pre><code>git clone https://github.com/usuario/repositorio.git</code></pre>
         <li>Abra o arquivo <code>index.html</code> no seu navegador.</li>
@@ -30,9 +25,8 @@
         <li>Clique no botão <strong>Codificar</strong> para transformar sua mensagem em uma versão codificada.</li>
         <li>Clique no botão <strong>Descodificar</strong> para retornar a mensagem ao seu texto original.</li>
         <li>Utilize o botão <strong>Copiar</strong> para copiar o resultado para a área de transferência.</li>
-    </ol>
-</body>
-</html>
+         </ul>
+
     <h2>📁 Estrutura do Projeto</h2>
     <ul>
         <li><code>index.html</code>: Estrutura básica da página.</li>
